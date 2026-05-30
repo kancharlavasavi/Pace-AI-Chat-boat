@@ -1,0 +1,9 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+sentence-transformers
+scikit-learn
+torch
+gtts
+SpeechRecognition
