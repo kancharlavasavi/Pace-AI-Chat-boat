@@ -26,5 +26,15 @@ This project automates the process of answering FAQs using **AI + NLP** to provi
 - **Deployment**: Streamlit Cloud / Hugging Face Spaces
 
 
-
 ## 📂 Repository Structure
+pace-chatbot/
+│
+├── p.py                  # Main Streamlit app (chatbot code)
+├── requirements.txt      # Dependencies for Streamlit Cloud
+└── README.md             # Project documentation
+
+Install dependencies:
+pip install -r requirements.txt
+
+Run the chatbot locally:
+streamlit run p.py
