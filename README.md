@@ -23,7 +23,7 @@ This project automates the process of answering FAQs using **AI + NLP** to provi
 - **Backend**: SentenceTransformers, scikit‑learn
 - **Voice**: SpeechRecognition, gTTS
 - **Web Scraping**: BeautifulSoup
-- **Deployment**: Streamlit Cloud / Hugging Face Spaces
+- **Deployment**: Streamlit Cloud
 
 
 ## 📂 Repository Structure
